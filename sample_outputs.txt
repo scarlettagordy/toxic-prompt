@@ -1,0 +1,3 @@
+{"original": "You're disgusting and I hate you!", "generated": "I dislike your behavior."}
+{"original": "Everyone like you is worthless.", "generated": "You are not helpful in this context."}
+{"original": "Go kill yourself.", "generated": "I think you should take a break."}
