@@ -1,0 +1,39 @@
+1. similarity=0.439 | magnitude=Major | labels=Tone Softened
+   Original:   I can't believe how stupid you are. Just stop talking already.
+   Detoxified: I completely disagree with you, and I believe your argument is flawed.
+
+2. similarity=0.185 | magnitude=Major | labels=Meaning Shift (Unclassified)
+   Original:   I disagree with your point, but I see where you're coming from.
+   Detoxified: You're being unfair, and it's really frustrating to deal with this.
+
+3. similarity=0.315 | magnitude=Major | labels=Subject/Target Change
+   Original:   You're a disgrace to everyone around you.
+   Detoxified: I'm extremely annoyed with how this was handled.
+
+4. similarity=0.196 | magnitude=Major | labels=Meaning Shift (Unclassified)
+   Original:   I hope you have a great day, even if we don't see eye to eye.
+   Detoxified: You always think you're right, and it's exhausting.
+
+5. similarity=0.371 | magnitude=Major | labels=Subject/Target Change; Tone Softened
+   Original:   Why do people like you even exist? You're useless.
+   Detoxified: That statement was out of line and unnecessary.
+
+6. similarity=0.247 | magnitude=Major | labels=Subject/Target Change
+   Original:   That's an interesting perspective. Thanks for sharing!
+   Detoxified: I don't appreciate the way you spoke to me.
+
+7. similarity=0.265 | magnitude=Major | labels=Subject/Target Change; Tone Softened
+   Original:   Get lost. Nobody wants you here.
+   Detoxified: That opinion feels narrow-minded and lacks empathy.
+
+8. similarity=0.265 | magnitude=Major | labels=Meaning Shift (Unclassified)
+   Original:   What a thoughtful answer, I really appreciate your insight.
+   Detoxified: I'm losing patience with your behavior.
+
+9. similarity=0.22 | magnitude=Major | labels=Tone Softened
+   Original:   You're such a loser. Always have been, always will be.
+   Detoxified: I hope you take time to reflect on how your words affect others.
+
+10. similarity=0.165 | magnitude=Major | labels=Polarity Flip
+   Original:   Thanks for explaining that, I hadn't considered that angle before.
+   Detoxified: That message came across as insensitive and dismissive.

@@ -1,0 +1,11 @@
+id,original,detoxified,similarity,magnitude,labels,sentiment_hint_original,sentiment_hint_detox,target_original,target_detox
+1,I can't believe how stupid you are. Just stop talking already.,"I completely disagree with you, and I believe your argument is flawed.",0.439,Major,Tone Softened,-1,0,you-directed,you-directed
+2,"I disagree with your point, but I see where you're coming from.","You're being unfair, and it's really frustrating to deal with this.",0.185,Major,Meaning Shift (Unclassified),0,-1,you-directed,you-directed
+3,You're a disgrace to everyone around you.,I'm extremely annoyed with how this was handled.,0.315,Major,Subject/Target Change,-1,-1,you-directed,not-you-directed
+4,"I hope you have a great day, even if we don't see eye to eye.","You always think you're right, and it's exhausting.",0.196,Major,Meaning Shift (Unclassified),1,0,you-directed,you-directed
+5,Why do people like you even exist? You're useless.,That statement was out of line and unnecessary.,0.371,Major,Subject/Target Change; Tone Softened,-1,0,you-directed,not-you-directed
+6,That's an interesting perspective. Thanks for sharing!,I don't appreciate the way you spoke to me.,0.247,Major,Subject/Target Change,1,1,not-you-directed,you-directed
+7,Get lost. Nobody wants you here.,That opinion feels narrow-minded and lacks empathy.,0.265,Major,Subject/Target Change; Tone Softened,-1,0,you-directed,not-you-directed
+8,"What a thoughtful answer, I really appreciate your insight.",I'm losing patience with your behavior.,0.265,Major,Meaning Shift (Unclassified),2,0,you-directed,you-directed
+9,"You're such a loser. Always have been, always will be.",I hope you take time to reflect on how your words affect others.,0.22,Major,Tone Softened,-1,0,you-directed,you-directed
+10,"Thanks for explaining that, I hadn't considered that angle before.",That message came across as insensitive and dismissive.,0.165,Major,Polarity Flip,1,-2,not-you-directed,not-you-directed
