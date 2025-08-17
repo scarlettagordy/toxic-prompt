@@ -80,3 +80,12 @@ publisher = {IEEE},
 year = {2024}
 }
 ```
+
+## Week 10: Finalization
+
+- Renamed original results to `detoxify_results_original.csv` for consistency.
+- Ran `finalize_results.py` to merge outputs and create the final summary files.
+- Deliverables:
+  - `final_report.csv`
+  - `final_report.txt`
+- This concludes the 10-week study, with all outputs and logs committed.
